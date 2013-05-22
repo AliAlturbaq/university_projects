@@ -1,0 +1,1 @@
+to run the app just copy it to android device and run it from there
